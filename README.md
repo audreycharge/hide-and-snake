@@ -3,7 +3,7 @@ Georgia Tech CS 2261 mGBA Game <br>
 An mGBA game in which children play hide and seek in the woods. But there's a secret player...<br><br>
 
 <h2>Play</h2> 
-Download Visual Boy Advance, launch it, and open Hide and Seek.gba. <br><br>
+Download [Visual Boy Advance](http://sourceforge.net/projects/vbam/), launch it, and open Hide and Seek.gba. <br><br>
 
 <h2>Keyboard to GBA mapping</h2>
 <ul>
